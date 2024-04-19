@@ -1,4 +1,5 @@
 /**
+ * URL : https://leetcode.com/problems/first-bad-version/description/
  * Definition for isBadVersion()
  *
  * @param {integer} version number
